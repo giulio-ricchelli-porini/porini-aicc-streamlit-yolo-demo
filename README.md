@@ -4,7 +4,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
 
 ## Assignment steps
 * Prepare an environment and run the app:
-    * As done in the first assignment, clone this repo in the "GitClass" folder ("C:\Users\%yourUsername%\Visual Studio Code\GitClass"); you should then have the project folder named "streamlit-yolo-demo" in the "GitClass" folder
+    * As done in the first assignment, clone this repo in the "GitClass" folder ("C:\Users\\%yourUsername%\Visual Studio Code\GitClass"); you should then have the project folder named "streamlit-yolo-demo" in the "GitClass" folder
     * In a terminal window, go into the project folder: ```cd %yourProjectFolder%```
     * Create a Python virtual env: ```python -m venv porini-gitclass-env```
     * Activate the new virtual env: ```"porini-gitclass-env/Scripts/activate.bat"```
