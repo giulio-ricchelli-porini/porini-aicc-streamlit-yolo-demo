@@ -13,7 +13,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
     * After having verified that it works, stop the app (ctrl+C from the terminal window, or kill the terminal window)
 * Create a new branch:
     * Create a new branch: ```git branch develop```
-    * Switch to the new branch: ```git checkuot develop```
+    * Switch to the new branch: ```git checkout develop```
     * Check that the current branch is "develop": ```git branch```
 * Update the code:
     * Turn the selectbox that lets you select the app mode into a radio button, without the default "\<select\>" value and so that the page shows the main.py source code without any user interaction (check the Streamlit documentation)
@@ -22,7 +22,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
     * By using the integrated "Source Control" tab in VSCode, commit and push your changes by publishing the "develop" branch to the remote
     * From the browser, open the repository, go to the "develop" branch and create a pull request to merge you changes to the "main" branch: complete and merge it to align "main" to "develop"
 * Update your project branches:
-    * From your local project, from the terminal window go to the "main" branch: ```git checkuot main```
+    * From your local project, from the terminal window go to the "main" branch: ```git checkout main```
     * Pull the changes applied by the pull request you completed: ```git pull```; in this way, your local project is aligned with the "main" from the remote
     * Delete your local "develop" branch: ```git branch -d develop```; in this way, the "develop" branch has been deleted locally but it still exists on the remote
     * Check that the "develop" local branch has been deleted: ```git branch```
