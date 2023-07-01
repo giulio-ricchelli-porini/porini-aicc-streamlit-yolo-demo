@@ -16,7 +16,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
     * Switch to the new branch: ```git checkuot develop```
     * Check that the current branch is "develop": ```git branch```
 * Update the code:
-    * Turn the selectbox that lets you select the app mode into a radio button, without the default "<select>" value and so that the page shows the main.py source code without any user interaction (check the Streamlit documentation)
+    * Turn the selectbox that lets you select the app mode into a radio button, without the default "\<select\>" value and so that the page shows the main.py source code without any user interaction (check the Streamlit documentation)
     * Update the altair plot that shows the objects per frame so that it fits the width of the ui element that contains it (check the Streamlit documentation)
 * Push your changes and merge to the "main" branch:
     * By using the integrated "Source Control" tab in VSCode, commit and push your changes by publishing the "develop" branch to the remote
