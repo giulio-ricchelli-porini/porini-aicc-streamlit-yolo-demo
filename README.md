@@ -10,7 +10,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
     * Activate the new virtual env: ```"porini-gitclass-env/Scripts/activate.bat"```
     * Install requirements: ```pip install -r requirements.txt```
     * Run the app: ```streamlit run main.py```
-    * After verifying that it works, stop the app
+    * After having verified that it works, stop the app (ctrl+C from the terminal window)
 * Create a new branch, update the code and merge the updated code to the "main" branch:
     * Create a new branch: ```git branch develop```
     * Check that the current branch is "develop": ```git branch```
