@@ -28,6 +28,6 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
     * Check that the "develop" local branch has been deleted: ```git branch```
     * Check from the browser that the "develop" branch still exists on the remote, even of you reload the page
     * Delete the "develop" branch from the remote: ```git push origin --delete develop```
-    * Check from the browser that the "develop" branch no longer exists on the remote: the repository url with "/develop" as final subpath gives a "404 Not Found" error
+    * Check from the browser that the "develop" branch no longer exists on the remote: now the repository branch list shows only the "main" branch, and the repository url with "/develop" as final subpath gives a "404 Not Found" error
 
 You completed the assignment! Please notify us when you have done!
