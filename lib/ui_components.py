@@ -22,7 +22,7 @@ def render_frame_selector_ui(summary):
     )
     selected_frame_df = pd.DataFrame({"selected_frame": [selected_frame_index]})
     vline = alt.Chart(selected_frame_df).mark_rule(color="red").encode(x="selected_frame")
-    st.altair_chart(alt.layer(chart, vline), use_container_width=True)
+    st.altair_chart(alt.layer(chart, vline))
 
     selected_frame = selected_frames[selected_frame_index]
     return selected_frame_index, selected_frame
