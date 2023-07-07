@@ -6,8 +6,8 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
 * Prepare an environment and run the app:
     * As done in the first assignment, clone this repo in the "GitClass" folder ("C:\Users\\%yourUsername%\Visual Studio Code\GitClass"); you should then have a new project folder in the "GitClass" folder dedicated to this project
     * In a terminal window, go into the project folder: ```cd %yourProjectFolder%```
-    * Create a Python virtual env: ```python -m venv porini-gitclass-env```
-    * Activate the new virtual env: ```"porini-gitclass-env/Scripts/activate.bat"```
+    * Create a Python virtual env: ```python -m venv porini-gitclass-env-1```
+    * Activate the new virtual env: ```"porini-gitclass-env-1/Scripts/activate.bat"```
     * Install requirements: ```pip install -r requirements.txt```
     * Run the app: ```streamlit run main.py```
     * After having verified that it works, stop the app (ctrl+C from the terminal window, or kill the terminal window)
